@@ -22,11 +22,13 @@
 ### 🧰 Tech Stack
 
 <p>
+  <img src="https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript"/>
+  <img src="https://img.shields.io/badge/-React-000?style=flat&logo=react"/>
+  <img src="https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js"/>
   <img src="https://img.shields.io/badge/-Python-000?style=flat&logo=python"/>
-  <img src="https://img.shields.io/badge/-FastAPI-000?style=flat&logo=fastapi"/>
-  <img src="https://img.shields.io/badge/-HuggingFace-000?style=flat&logo=huggingface"/>
   <img src="https://img.shields.io/badge/-Docker-000?style=flat&logo=docker"/>
-  <img src="https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/-Google Cloud-000?style=flat&logo=googlecloud"/>
+  <img src="https://img.shields.io/badge/-Anthropic-000?style=flat&logo=anthropic"/>
 </p>
 
 ---
