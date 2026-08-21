@@ -24,11 +24,9 @@
 <p>
   <img src="https://img.shields.io/badge/-Python-000?style=flat&logo=python"/>
   <img src="https://img.shields.io/badge/-FastAPI-000?style=flat&logo=fastapi"/>
-  <img src="https://img.shields.io/badge/-ONNX-000?style=flat&logo=onnx"/>
   <img src="https://img.shields.io/badge/-HuggingFace-000?style=flat&logo=huggingface"/>
   <img src="https://img.shields.io/badge/-Docker-000?style=flat&logo=docker"/>
   <img src="https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/-Notion API-000?style=flat&logo=notion"/>
 </p>
 
 ---
@@ -51,4 +49,5 @@
 
 ### ⚡ Fun Fact
 
-> I prefer automating the boring stuff before even writing the docs for it.
+> eternally stuck at deciding what to write here
+  git commit -m ""
