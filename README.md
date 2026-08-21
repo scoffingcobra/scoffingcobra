@@ -1,25 +1,20 @@
-<h1 align="center">Hey 👋 I'm Jai (aka ScoffingCobra)</h1>
+<h1 align="center">Hey 👋 I'm Jai</h1>
 
 <p align="center">
-⚡ AI Engineer • 🛠️ Infra Hacker • 🔁 Automation Fanatic<br>
-Building inference engines, agentic pipelines, and making founders obsolete (kinda).
+⚡ AI Engineer <br>
 </p>
 
 ---
 
 ### 🚀 What I'm Building
 
-- 🧠 **InferNet** – Ultra-lightweight ONNX-powered inference stack for LLMs & QA
-- 🔗 **Auto-integrations** – AI assistants that hook directly into workflows (no babysitting)
-- 🛠️ Currently Infra Dev @ **CannonBall India** (small team, big dreams)
+- 🧠 **Connex** – Bringing people together on the based of their taste and convenience
+- 🛠️ Currently Software Dev @ **TT Xpress** (Antler Backed Startup)
 
 ---
 
 ### 🔥 Interests
 
-- 🤖 LLM quantization & low-latency serving
-- 🛠️ FastAPI, HuggingFace, ONNX, Transformers, PyTorch
-- 🧩 Integrating AI into dumb workflows to save smart people time
 - ⚡ Shipping quick & dirty before someone else does it clean & late
 
 ---
@@ -34,14 +29,6 @@ Building inference engines, agentic pipelines, and making founders obsolete (kin
   <img src="https://img.shields.io/badge/-Docker-000?style=flat&logo=docker"/>
   <img src="https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb"/>
   <img src="https://img.shields.io/badge/-Notion API-000?style=flat&logo=notion"/>
-</p>
-
----
-
-### 📊 Stats & Vibes
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scoffingcobra&layout=compact&theme=tokyonight" width="47%" />
 </p>
 
 ---
